@@ -1,1 +1,1 @@
-# DiskSchedulingSimulation
+# CPU Scheduling Simulation
